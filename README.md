@@ -1,3 +1,9 @@
+this is a form that gives the user the ability to narrow a search for information within the star wars api
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
